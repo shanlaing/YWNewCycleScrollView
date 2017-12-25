@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/shanlaing/YWNewCycleScrollView"
   s.license      = "MIT"
   s.author             = { "yishanliang" => "yishanliang@zillionfortune.com" }
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/shanlaing/YWNewCycleScrollView.git", :tag => "#{s.version}" }
   s.source_files  = "newSub/**/*.{h,m}"
   s.framework    = "UIKit"
