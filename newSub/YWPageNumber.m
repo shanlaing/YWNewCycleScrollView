@@ -20,8 +20,8 @@
     self = [super initWithFrame:frame];
     if (self) {
         _numberViews = [[NSMutableArray alloc] init];
-        self.unselectedColor = [UIColor_RgbColor colorWithHexString:@"#D8D8D8"];
-        self.selectedColor = [UIColor_RgbColor colorWithHexString:@"#ff5532"];
+//        self.unselectedColor = [UIColor_RgbColor colorWithHexString:@"#D8D8D8"];
+//        self.selectedColor = [UIColor_RgbColor colorWithHexString:@"#ff5532"];
         
         self.unselectedAlpha = kUnselectedAlpha;
         self.selectedAlpha = kSelectedAlpha;

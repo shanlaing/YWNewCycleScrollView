@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YWNewCycleScrollView"
-  s.version      = "3.0.0"
+  s.version      = "4.0.0"
   s.summary      = " a scrollview  to 3D  scrollviw  and  present someThings"
 
   s.description  = <<-DESC "test somme  thongs  's definitely to your advantage. The "
