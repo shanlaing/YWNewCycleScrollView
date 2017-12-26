@@ -39,12 +39,6 @@
     return self;
 }
 
-- (void)dealloc
-{
-    self.scrollView.delegate = nil;
-    NSLog(@"dealloc scroll");
-}
-
 #pragma mark -----------------------------primethods----------------------------------
 
 - (void)setShowMargin:(CGFloat )margin left:(CGFloat )leftMargin right:(CGFloat )rightMargin {
